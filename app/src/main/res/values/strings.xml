@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP N°1</string>
+    <string name="txt_View_Creador">Diaz Luciano</string>
+    <string name="btnEjercicioUno_string">Ejercicio 1</string>
+    <string name="btnEjercicioDos_string">Ejercicio 2</string>
+    <string name="txt_View_1_string">Primer número:</string>
+    <string name="txt_View_2_string">Segundo número:</string>
+    <string name="btnSumar_string">CALCULAR</string>
+    <string name="text_view_result">-</string>
+</resources>
